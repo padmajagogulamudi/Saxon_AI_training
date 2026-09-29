@@ -1,0 +1,16 @@
+Student_ID,Name,Age,Study_Hours,Attendance,Assignments,Previous_Marks,Final_Marks
+1,Padmaja,22,6,92,9,78,85
+2,Arun,23,3,75,7,65,70
+3,Dolly,21,8,95,10,88,92
+4,Kiran,24,5,82,8,72,80
+5,Ravi,22,2,68,6,55,62
+6,Sneha,23,7,90,9,82,88
+7,Vinay,21,4,78,7,60,68
+8,Priya,22,9,96,10,91,95
+9,Anil,24,3,72,6,58,64
+10,Meena,23,6,88,8,75,82
+11,Rahul,22,5,84,8,70,77
+12,Swathi,21,7,91,9,85,89
+13,Ajay,24,2,65,5,50,58
+14,Harsha,23,8,94,10,87,93
+15,Divya,22,4,80,7,63,72
