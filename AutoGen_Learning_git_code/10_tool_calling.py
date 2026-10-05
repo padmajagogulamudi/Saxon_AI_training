@@ -35,12 +35,12 @@ def add_numbers(a: int, b: int) -> int:
 
 
 assistant.register_for_llm(
-    name="add_numbers",
+    name="add_numberss",
     description="Add two numbers together."
 )(add_numbers)
 
 user_proxy.register_for_execution(
-    name="add_numbers"
+    name="add_numberss"
 )(add_numbers)
 
 
